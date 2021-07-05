@@ -14,7 +14,7 @@
     1. Methode agile
     2. Diagramme de gantt
 
-4. ANALYSE FONCTIONNELLE
+4. ANALYSE FONCTIONNELLE : DESIGN THINKING
     1. Empathie
     2. Définir
     3. Idéation
